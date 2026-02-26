@@ -4,7 +4,7 @@
 # 💫 Hi 👋, I'm Muhammad Umair
 **A passionate Full Stack Developer || Aspiring software Engineer || C++ , Python**
 
-Email Me 👉 ✉️ **mu265663@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Contact on Istagram || LinkdIn || Fcaebook
 
 🔭 I’m currently working on improving my C++ skills and building full stack web projects.<br><br>👯 I’m looking to collaborate on C++ projects, web development, and AI-based applications.<br><br>🤝 I’m looking for help with advanced Machine Learning and real-world AI projects.<br><br>🌱 I’m currently learning advanced Data Structures, AI models, and modern web technologies.<br><br>💬 Ask me about C++, Object-Oriented Programming, Full Stack Development, and Machine Learning.<br><br>⚡ Fun fact: I love solving programming problems and I am inspired by software development and new technologies.<br>
 
@@ -25,8 +25,7 @@ Email Me 👉 ✉️ **mu265663@gmail.com** For Collaboration/Project or Anythin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadUmair30&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammadUmair30&icon=0&color=0)](https://visitcount.itsvg.in)
