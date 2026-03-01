@@ -4,7 +4,7 @@
 # 💫 Hi 👋, I'm Muhammad Umair
 **A passionate Full Stack Developer || Aspiring software Engineer || C++ , Python**
 
-Contact on Istagram || LinkdIn || Fcaebook
+Contact on Instagram || LinkdIn || Facebook
 
 🔭 I’m currently working on improving my C++ skills and building full stack web projects.<br><br>👯 I’m looking to collaborate on C++ projects, web development, and AI-based applications.<br><br>🤝 I’m looking for help with advanced Machine Learning and real-world AI projects.<br><br>🌱 I’m currently learning advanced Data Structures, AI models, and modern web technologies.<br><br>💬 Ask me about C++, Object-Oriented Programming, Full Stack Development, and Machine Learning.<br><br>⚡ Fun fact: I love solving programming problems and I am inspired by software development and new technologies.<br>
 
